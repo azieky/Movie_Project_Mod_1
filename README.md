@@ -8,7 +8,6 @@ Using Return on Investment as a metric for the engagement and expansion of audie
     matplotlib
     BeautifulSoup
     json
-    ast
     math
     Seaborn
 
