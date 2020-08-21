@@ -30,9 +30,9 @@ To figure out how Microsoft’s platform could succeed, we began by asking the f
     What genres have the highest return on investment?
     What plots have the highest return on investment?
 
-Why use return on investment to measure audience engagement?
+### Why use return on investment to measure audience engagement?
 
 Since only when a film recuperates twice its budget is it considered financially successful, when a film triples, quadruples, or quintuples it can be considered exemplary. The news is dominated by big budget movies breaking box office records, but cases where a film makes several times more than what was initially invested would be more rewarding models for a new streaming platform.
 As Microsoft’s new streaming service would want to expand its audience as quickly as possible, using the release and content of films with high domestic and world return on investment as a template would focus the platform’s initial strategy on the kinds of stories and content that would quickly expand its audience beyond its initial budget, as opposed to those films that are critically praised but popularly derided and those films with behemoth budgets.
 
-https://github.com/azieky/Movie_Project_Mod_1/blob/Alex/Data_Visualizations/Comparing_Budget_Viz.png
+![Comparing Budget and Gross to to Budget and Return on Investment] (https://github.com/azieky/Movie_Project_Mod_1/blob/Alex/Data_Visualizations/Comparing_Budget_Viz.png)
